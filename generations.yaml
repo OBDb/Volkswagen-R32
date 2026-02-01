@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk4"
+  - "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk5"
+
 generations:
   - name: "First Generation (Golf IV R32)"
     start_year: 2002
